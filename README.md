@@ -28,6 +28,10 @@
 
 Не се използват допълнителни UI библиотеки, authentication или state management решения.
 
+За цялостен пример на full-stack приложение с Next.js (включващ повече функционалности и архитектурни решения), вижте следния проект:
+
+https://github.com/georgi-dimov-781/movie-catalog-next-js-uni-course
+
 ---
 
 ## 📁 Структура
